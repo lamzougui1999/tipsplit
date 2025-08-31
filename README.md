@@ -1,2 +1,0 @@
-# tipsplit
-app calculate tip
